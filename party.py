@@ -4,8 +4,8 @@ if (userint < 1):
     print("PARTY NOW!")
     
 else:
-    for i in range(i = userint: i >= 1: i = i - 1)
-    print(i)
+    for i in range(i = userint, i = 1, i = 1 - 1):
+        print(i)
 
 if (i == 1):
     print("PARTY TIME!!!")
